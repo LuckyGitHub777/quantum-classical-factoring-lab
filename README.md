@@ -1,6 +1,8 @@
 # Classical Factoring — Learning Lab
 
-An offline Python exercise in the **classical** post-processing surrounding Shor's factoring algorithm. It factors only small integers, with bounded input and repeatable examples; it does **not** run quantum order finding or break real RSA keys.
+**Explore online:** [Open the interactive browser companion](https://luckygithub777.github.io/quantum-classical-factoring-lab/). The hosted companion explains the ideas; the Python CLI and tests remain separate source tools.
+
+A Python learning exercise with an interactive browser companion in the **classical** post-processing surrounding Shor's factoring algorithm. It factors only small integers, with bounded input and repeatable examples; it does **not** run quantum order finding or break real RSA keys.
 
 ## Try it
 
