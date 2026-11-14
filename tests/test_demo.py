@@ -1,4 +1,4 @@
-"""Offline standalone educational checks; no legacy private experimental files required."""
+"""Offline standalone educational checks."""
 import importlib.util
 from pathlib import Path
 import subprocess
